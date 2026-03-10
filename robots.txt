@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vijayelectronic.github.io/best-india-electronics-service/sitemap.xml
+
+
